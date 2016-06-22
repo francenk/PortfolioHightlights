@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Pages\" Type="ElementManifest" />
+    <ProjectItemFile Source="Default.aspx" Target="Pages\" Type="ElementFile" />
+    <ProjectItemFile Source="PageEUAMDE.aspx" Target="Pages\" Type="ElementFile" />
+    <ProjectItemFile Source="PageEUMBDDE.aspx" Target="Pages\" Type="ElementFile" />
+    <ProjectItemFile Source="PageEUPMDE.aspx" Target="Pages\" Type="ElementFile" />
+    <ProjectItemFile Source="PageORAMDE.aspx" Target="Pages\" Type="ElementFile" />
+    <ProjectItemFile Source="PageORPMDE.aspx" Target="Pages\" Type="ElementFile" />
+    <ProjectItemFile Source="PageQRMBDDE.aspx" Target="Pages\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

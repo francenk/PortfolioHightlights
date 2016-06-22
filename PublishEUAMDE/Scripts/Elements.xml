@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Scripts">
+    <File Path="Scripts\App.js" Url="Scripts/App.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.min.map" Url="Scripts/jquery-1.9.1.min.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.min.js" Url="Scripts/jquery-1.9.1.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.js" Url="Scripts/jquery-1.9.1.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.intellisense.js" Url="Scripts/jquery-1.9.1.intellisense.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\AppEUAMDE.js" Url="Scripts/AppEUAMDE.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\AppEUMBDDE.js" Url="Scripts/AppEUMBDDE.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\AppEUPMDE.js" Url="Scripts/AppEUPMDE.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\AppORAMDE.js" Url="Scripts/AppORAMDE.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\AppORPMDE.js" Url="Scripts/AppORPMDE.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\euamde.js" Url="Scripts/euamde.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\AppQRMBDDE.js" Url="Scripts/AppQRMBDDE.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

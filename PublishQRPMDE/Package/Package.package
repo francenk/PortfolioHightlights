@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="2d810a6d-0789-42c1-948c-b8fab03e57f3" 
+        solutionId="2d810a6d-0789-42c1-948c-b8fab03e57f3" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="PublishQRPMDE"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="1a52ff02-a498-46a9-b27d-b254294245aa" />
+  </features>
+</package>

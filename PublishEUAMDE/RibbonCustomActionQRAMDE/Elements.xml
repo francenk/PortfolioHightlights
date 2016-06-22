@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction Id="da155dac-3ef6-4761-abeb-b09737afa64a.RibbonCustomActionQRAMDE"
+                RegistrationType="List"
+                RegistrationId="{$ListId:Lists/Quarterly Report AM  Data Entry;}"
+                Location="CommandUI.Ribbon"
+                Sequence="10001"
+                Title="Invoke &apos;RibbonCustomActionQRAMDE&apos; action">
+    <CommandUIExtension>
+      <!-- 
+      Update the UI definitions below with the controls and the command actions
+      that you want to enable for the custom action.
+      -->
+      <CommandUIDefinitions>
+        <CommandUIDefinition Location="Ribbon.List.Actions.Controls._children">
+          <Button Id="Ribbon.List.Actions.RibbonCustomActionQRAMDEButton"
+                  Alt="Publish Comments"
+                  Sequence="100"
+                  Command="Invoke_RibbonCustomActionQRAMDEButtonRequest"
+                  LabelText="Publish Comments"
+                  TemplateAlias="o1"
+                  Image32by32="_layouts/15/images/placeholder32x32.png"
+                  Image16by16="_layouts/15/images/placeholder16x16.png" />
+        </CommandUIDefinition>
+      </CommandUIDefinitions>
+      <CommandUIHandlers>
+        <CommandUIHandler Command="Invoke_RibbonCustomActionQRAMDEButtonRequest"
+                          CommandAction="~appWebUrl/Pages/PageORAMDE.aspx?{StandardTokens}&amp;SPListItemId={SelectedItemId}&amp;SPListId={SelectedListId}"/>
+      </CommandUIHandlers>
+    </CommandUIExtension >
+  </CustomAction>
+</Elements>

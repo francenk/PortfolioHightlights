@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="b477f396-349d-4728-8cb3-b7cc225fdbbd" 
+        solutionId="b477f396-349d-4728-8cb3-b7cc225fdbbd" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="PortfolioHightlights"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="3e222316-a0c9-4580-9d98-eb3148b6f5c4" />
+  </features>
+</package>

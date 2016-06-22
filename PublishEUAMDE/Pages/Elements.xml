@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Pages">
+    <File Path="Pages\Default.aspx" Url="Pages/Default.aspx" ReplaceContent="TRUE" />
+    <File Path="Pages\PageEUAMDE.aspx" Url="Pages/PageEUAMDE.aspx" ReplaceContent="TRUE" />
+    <File Path="Pages\PageEUMBDDE.aspx" Url="Pages/PageEUMBDDE.aspx" ReplaceContent="TRUE" />
+    <File Path="Pages\PageEUPMDE.aspx" Url="Pages/PageEUPMDE.aspx" ReplaceContent="TRUE" />
+    <File Path="Pages\PageORAMDE.aspx" Url="Pages/PageORAMDE.aspx" ReplaceContent="TRUE" />
+    <File Path="Pages\PageORPMDE.aspx" Url="Pages/PageORPMDE.aspx" ReplaceContent="TRUE" />
+    <File Path="Pages\PageQRMBDDE.aspx" Url="Pages/PageQRMBDDE.aspx" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

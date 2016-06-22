@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="e7979172-3a96-483c-8712-9f2cff23ba6e" 
+        solutionId="e7979172-3a96-483c-8712-9f2cff23ba6e" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="PublishEUAMDE"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="fc126fd4-ceb0-4cbc-8ee4-a683cb2bfdd2" />
+  </features>
+</package>
